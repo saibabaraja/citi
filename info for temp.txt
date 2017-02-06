@@ -1,0 +1,193 @@
+Narsi has 5 years of experience in Build and Release and deployment of various software applications/products. Narsi is highly proficient and specialized in Application Design, DevOps environment, Monitoring and Cloud provisioning and deployment ,Agile and Scrum Methodologies.
+Apart from possessing strong problem solving and analytical skills with ability to lead multiple project delivery and concurrent implementation, Girdhar do have a substantial hands-on knowledge on virtualization and cloud infrastructure including IBM’s Softlayer, Docker, Openstack.
+
+
+Kranthi has 4 years experience in Build and Release & Devops,
+He worked with 2 Clients.  
+His main responsibilities involves Taking care of Monitoring, Regular Build and deployment Activities. Responsible for the Build task monitoring activities on several environments for dev/live/test environments.
+
+Narsi has 5 years of experience in Build and Release and deployment of various software applications/products. Narsi has experience in Continuous Build and Continuous Integration environments for Agile projects and configuration experience with software provisioning tools like Ansible, Chef.And also exceriance in Version Control Tools Perforce, Git.
+
+Configured Build automations and deployments.
+Strong experience in working in Linux and Windows environments. 
+Virtualization using Docker. 
+Configuring Jenkins system and Jobs using build tools like ANT and Maven. 
+
+
+Deployments & Environment configuration using Ansible, Chef.
+
+
+
+Find JobsFind ResumesEmployers
+	
+Post a Job Sign in
+Indeed Resume
+what
+	
+where
+	
+	
+	
+		Advanced Search
+	
+
+To help ensure jobseeker privacy, some information has been hidden.
+To see full resume details, log in to your Indeed account or create an account for free.
+Sign in   Create an account
+DevOps Engineer
+DevOps Engineer - Comcast
+
+Pitsburgh
+
+• Over 7+ years experience solving complex problems with creative solutions, supporting development and operations environments. 
+• Experience of Jenkins, Apache Ant, Apache Tomcat, Subversion, Git, Maven. 
+• Experience in scripting languages Shell and Python. 
+• Experience in development and configuration experience with software provisioning tools like Chef, Puppet. 
+• Working Knowledge on Cloud automation using AWS Cloud Formation templates. 
+• Experience in using chef for server provisioning and infrastructure automation in a SAAS environment. 
+• Strong knowledge and real time experience in Amazon Web Services (EC2, S3, RDS, VPC, Route 53, etc) 
+• Experience in using Version Control Tools VSS, Sub-Version, Git, perforce. 
+• Experienced in build tools such as Ant, Maven. 
+• Application Deployments & Environment configuration using Chef, Puppet. 
+• Experience in using Jenkins to automate most of the build related tasks. 
+• Experience in managing other version control tools like GIT. 
+• Virtualization using Docker. 
+• Knowledge / experience in creating Jenkins CI pipelines 
+• Exposure to Software Development Life Cycle. 
+• Strong hands on experience with scripting languages like Python, Ruby, PowerShell, and JavaScript. 
+• Strong experience in working in Linux and Windows environments. 
+• Excellent interpersonal skills, proven team player with an analytical bent to problem solving and delivering under high stress environment. 
+• Good analytical and communication skills and ability to work independently with minimal supervision and also perform as part of a team.
+Work Experience
+
+DevOps Engineer
+Comcast -
+PA
+
+February 2016 to Present
+
+PA Feb 16 - Present 
+Description: Comcast is the largest broadcasting and cable television company. Comcast also produces feature films and television programs. 
+ 
+Role: DevOps Engineer 
+Responsibilities: 
+• Implemented and developed solutions enabling Development and Operations teams to build, deploy, monitor and test applications and environments 
+• Implemented monitoring and reporting solutions across a range of environments and platforms 
+• Evaluated and advised on virtualization and containerization solutions 
+• Environment provisioning solutions using Docker, Vagrant, Red Hat Satellite 
+• Developed scripts for build, deployment, maintenance and related tasks using Jenkins, Docker, Maven, Python and Bash 
+• VMWare management and support of server farms running in virtualization environments 
+• Architected and implemented automated cloud infrastructure using Chef. 
+• Involved in Chef and Puppet for Deployment on Multiple platforms. 
+• Developed a continuous deployment pipeline using Jenkins, Chef, and shell scripts 
+• Updated bugs and user stories to reflect deployment information when pushing / releasing code, collating them with other information into release notes. 
+Environment: Jenkins, Chef, Docker, Vagrant, Red Hat, Java, JSON, API, AWS, Shell Script, Unix/Linux
+
+DevOps Engineer
+American Airlines, Texas
+
+February 2015 to January 2016
+
+Feb 15 - Jan 16 
+ 
+Description: American Airlines is a major American airline company. It is the world's largest airline in revenue, and scheduled passenger-kilometers flown, and the second largest by number of destinations served. 
+ 
+Role: DevOps Engineer 
+Responsibilities: 
+• Worked on establishing a streamlined release process for the development team from scratch. 
+• Worked for DevOps Platform team responsible for specialization areas related to Chef for Cloud Automation. 
+• Implemented & maintained the branching and build/release strategies utilizing Subversion/GIT. Manage configuration of Web App and Deploy to AWS cloud server through Chef. 
+• Designed and developed automated deployment and scaling processes based on Vagrant and Chef for a wide range of server types and application tiers. 
+• Automated the cloud deployments using chef, Python and AWS Cloud Formation Templates. 
+• Automated infrastructure using Docker 
+• Designed and programmed a core company service that improved stability, maintainability and reliability by 30 to 75 percent depending on the account and situation. 
+• Automation of disable and enable nodes in F5 load balancer prior and after code deployment. 
+• Manage data collection using framework and python applications. 
+• Monitor real time data processing that scaled thousands of requests per second. 
+• Resolved performance issues caused by ineffective query optimization 
+Environment: GIT, Puppet, Poweshell, AWS, Python, Java/J2EE, JIRA, Shell scripts, MY SQL, Agile, LINUX.
+
+Build - Release Engineer/ DevOps
+PG & E, California -
+May, CA
+
+May 2014 to January 2015
+
+May 14 - Jan 15 
+ 
+Description: PG&E provides natural gas and electricity to most of the northern two-thirds of California. It has headquarters in San Francisco, California. 
+ 
+Role: Build - Release Engineer/ DevOps 
+Responsibilities: 
+• Actively involved in architecture of DevOps platform and cloud solutions. 
+• Implemented Chef to deploy the builds for Dev, QA and production. 
+• Maintained and developed infrastructure using Chef, Jenkins, and multiple AWS tools. 
+• Built infrastructure for production website that included slave replication and masters 
+• Built python apps that allowed developers to build proprietary solutions without requiring standard components. 
+• Involved in AWS, which included managing application in the cloud and creating instances. 
+• Involved in Chef and Puppet for Deployment on Multiple platforms. 
+• Created release notes based on the contents of builds and publish build artefacts to the stakeholders. 
+• Managed and optimize the Continuous Delivery tools like Jenkins. 
+• Implemented & maintained the branching and build/release strategies utilizing GIT. 
+• Designed and implemented the backup strategy for all the critical systems such as build machines, bug tracking tools, central repositories etc. 
+Environment: Java, Eclipse, Tomcat, Apache, Jenkins, Python, Ruby, JIRA, Maven, Git, AWS, Ruby, Chef, Powershell, GIT, Puppet, LINUX.
+
+Build & Release Engineer
+NCR Corporation
+
+January 2012 to December 2013
+
+Responsibilities: 
+• Responsible for the build and release management process. 
+• Maintained and developed infrastructure using Chef, Jenkins, and multiple AWS tools. 
+• Wrote ANT and MAVEN Scripts to automate the Build Process. 
+• Used Shell/Perl Scripts to automate the Deployment Process. 
+• Developed Python batch processors to consume and produce various feeds. 
+• Used Jenkins, Build forge for Continuous Integration and deployment into Tomcat Application Server. 
+• Coordinating with development teams to perform builds and resolve build issues. 
+• Analyse and create daily reports on the status of server backups on intranet and extranet. 
+• Setup and debug hard ware related issues for server builds. 
+• Perform weekly build cycle and testing processes on Solaris. 
+• Coordinated with developers, Business Analyst and Mangers to make sure that code is deployed in the Production environment. 
+• Troubleshoot tickets on the helpdesk tracking system. 
+Environment: Python, SVN, Team City, Chef, Jenkins, AWS, Apache Tomcat, Java/J2EE, ANT, Shell Scripts, MAVEN, UNIX, LINUX.
+
+Build/ Release Engineer
+Systems Soft Technologies -
+Gujarat, IN
+
+June 2010 to December 2011
+
+Responsibilities: 
+• Setting up Jenkins master, adding the necessary plugins and adding more slaves to support scalability and agility. 
+• Addressed software configuration management issues in coordination with development team. 
+• Implemented code builds and automated deployment procedures. 
+• Resolved build and release dependencies in collaboration with other departments. 
+• Outlined build and deployment procedures in consultation with developers. 
+• Examined and executed application-specific deploy processes. 
+• Planning the releasing activities and delivering them on schedule. 
+• Managing nightly builds, weekly builds, feature addition builds and Sales Candidates. 
+• Integrating the latest available changes / components to the product software. 
+• Creating software packages for factories. 
+• Automation of day-to-day, repetitive tasks. 
+Environment: JAVA, HTML, XML, JavaScript, Apache Tomcat, Web Sphere Application Server, Oracle 10g and 11g,
+
+Linux Administrator
+Novity Technologies -
+Gujarat, IN
+
+February 2008 to May 2010
+
+Responsibilities: 
+• Track, resolve and report issues in accordance with the existing error reporting/tracking process 
+• Handle responsibilities of installing operating system and application software 
+• Responsible for creating and maintaining user accounts in RedHat Enterprise Linux and other operating systems 
+• Handle tasks of installing, maintaining and configuring computer software systems 
+• Wrote custom scripts and automated tasks to free up research and project time. 
+• Implement operating system enhancements to improve reliability and performance of the system 
+• Managed daily activities to include user support and system administration tasks
+Additional Information
+
+
+
+

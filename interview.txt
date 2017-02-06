@@ -1,0 +1,50 @@
+Docker:
+
+how do you find out what are the containers are running on docker hub?
+why do we need docker?
+If i go for could (aws) i can create AMI 
+
+Ansible:
+what u define hosts?
+steps to create ssh key?
+
+Jenkins:
+have u build any maven job?
+
+have u installed any plugins
+
+Git:
+have u installed the git server
+do u have own github
+
+linux:
+how do you install and uninstall RPM packages?
+which editor u r using?
+in vi editor how will u reach line 300?
+=====================================
+
+what is diff b/w softlink and hardlink?
+can we use chef without port 22?
+
+VPC, NAT
+loadbalance
+
+how do you findout large files in linux?
+i have one customised script i need to run at boot time where we have to specified?
+how to declare arraays in shell script?
+how many shell scripts u wrote and explain?
+do u know any maven commands?
+how do u deploy application from jenkins to app server?
+how do u create jenkins jobs?
+how many recipes u wrote, explain?
+did u faced any n/w issues b/w chef server and chef client?
+
+
+
+
+
+
+
+
+
+
